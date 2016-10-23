@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="taekwondomerthyr.com" resolutions="1x" timestamp="1477237164779">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="taekwondomerthyr.com" resolutions="1x" timestamp="1477238419673">
   <folder name="css">
     <file name="site_global.css" crc="3916556066"/>
-    <file name="index.css" crc="3892127716" ref="index"/>
+    <file name="index.css" crc="141250392" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
@@ -12,9 +12,8 @@
     <file name="require.js" crc="4108833657" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="01 - background.jpg" crc="502006621" ref="index"/>
-    <file name="tkdlogo - newsiteheader.jpg" crc="427230103" seo="true" ref="index"/>
-    <file name="tkdlogo-banner.png" crc="226743630" seo="true" ref="index"/>
+    <file name="01 - facebook image.jpg" crc="21593191" seo="true" ref="index"/>
+    <file name="4lgvt5y.jpg" crc="3929885646" ref="index"/>
   </folder>
-  <file name="index.html" crc="4258344279" seo="true" mt="1477237156191" redirect="true"/>
+  <file name="index.html" crc="4047576458" seo="true" mt="1477238410294" redirect="true"/>
 </manifest>
