@@ -259,8 +259,7 @@ div#e85             { /* TAEKWON-DO MERTHYR TYDFI... */
 	width           : 249.75pt;
 	height          : 183.00pt;
 	}
-span#e84            { /* tkd002043.jpg */
-	background      : transparent url(tkd002043.jpg) no-repeat top left;
+img#e84             { /* tkd002043.jpg */
 	position        : absolute;
 	left            :  85.50pt;
 	top             :2340.75pt;
