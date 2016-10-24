@@ -779,7 +779,7 @@ div#e1              { /* Gallery  */
 	height          :  12.75pt;
 	}
 div#page            { /* Page Holder */
-	background-color: #ffffff;
+	background-color: transparent;
 	position        : relative;
 	width           : 745.50pt;
 	height          :2250.00pt;

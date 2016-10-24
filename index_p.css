@@ -919,7 +919,7 @@ div#e1              { /* Amazing training session... */
 	height          :  44.25pt;
 	}
 div#page            { /* Page Holder */
-	background-color: #ffffff;
+	background-color: transparent;
 	position        : relative;
 	width           : 745.50pt;
 	height          :3750.00pt;

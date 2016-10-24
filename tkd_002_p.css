@@ -259,7 +259,8 @@ div#e85             { /* TAEKWON-DO MERTHYR TYDFI... */
 	width           : 249.75pt;
 	height          : 183.00pt;
 	}
-img#e84             { /* tkd002043.jpg */
+span#e84            { /* tkd002043.jpg */
+	background      : transparent url(tkd002043.jpg) no-repeat top left;
 	position        : absolute;
 	left            :  85.50pt;
 	top             :2340.75pt;
@@ -890,7 +891,7 @@ span#e1             { /* tkd002001.jpg */
 	height          : 207.75pt;
 	}
 div#page            { /* Page Holder */
-	background-color: #ffffff;
+	background-color: transparent;
 	position        : relative;
 	width           : 745.50pt;
 	height          :3375.00pt;
