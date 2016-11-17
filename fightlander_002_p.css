@@ -1,0 +1,159 @@
+/*--- Avanquest WebEasy Page Style ---*/
+
+
+.cc11               { /* Common */
+	border          :   0.00pt none #000000;
+	}
+.cc12               { /* Common */
+	border          :   3.00pt solid #000000;
+	}
+.cc13               { /* Common */
+	font            : 12pt 'Calibri';
+	color           : #ffffff;
+	}
+.cc14               { /* Common */
+	font            : 14pt 'Forte';
+	color           : #b4e41c;
+	}
+.cc15               { /* Common */
+	font            : 11pt 'Calibri';
+	color           : #b5e51d;
+	}
+.cc16               { /* Common */
+	font            : bold 12pt 'Arial', Helvetica, sans-serif;
+	color           : #ffffff;
+	}
+.cc17               { /* Common */
+	font            : 12pt 'Forte';
+	color           : #000000;
+	}
+span#e15            { /* fightlander002004.gif */
+	background      : transparent url(fightlander002004.gif) no-repeat top left;
+	position        : absolute;
+	left            :   4.50pt;
+	top             :  40.50pt;
+	width           : 702.75pt;
+	height          :1353.00pt;
+	}
+span#e14            { /* fightlander001018.jpg */
+	background      : transparent url(fightlander001018.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   4.50pt;
+	top             :   0.75pt;
+	width           : 697.50pt;
+	height          : 149.25pt;
+	}
+span#e13            { /* fightlander002003.gif */
+	background      : transparent url(fightlander002003.gif) no-repeat top left;
+	position        : absolute;
+	left            : 487.50pt;
+	top             :  15.00pt;
+	width           : 217.50pt;
+	height          : 113.25pt;
+	}
+span#e12            { /* fightlander002002.gif */
+	background      : transparent url(fightlander002002.gif) no-repeat top left;
+	position        : absolute;
+	left            :   4.50pt;
+	top             : 176.25pt;
+	width           : 702.75pt;
+	height          : 228.00pt;
+	}
+div#e11             { /* Is a Free Online Martial... */
+	position        : absolute;
+	left            : 240.75pt;
+	top             : 290.25pt;
+	width           : 447.00pt;
+	height          :  97.50pt;
+	}
+div#e10             { /* Welcome to Irishfighter.... */
+	position        : absolute;
+	left            : 236.25pt;
+	top             : 258.75pt;
+	width           : 259.50pt;
+	height          :  18.75pt;
+	}
+span#e9             { /* fightlander001009.jpg */
+	background      : transparent url(fightlander001009.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   9.75pt;
+	top             : 177.75pt;
+	width           : 222.00pt;
+	height          : 216.75pt;
+	}
+span#e8             { /* fightlander001008.jpg */
+	background      : transparent url(fightlander001008.jpg) no-repeat top left;
+	position        : absolute;
+	left            : 234.00pt;
+	top             : 180.00pt;
+	width           : 468.75pt;
+	height          :  72.00pt;
+	}
+span#e7             { /* fightlander001007.jpg */
+	background      : transparent url(fightlander001007.jpg) no-repeat top left;
+	position        : absolute;
+	left            :   7.50pt;
+	top             : 156.00pt;
+	width           : 696.75pt;
+	height          :  21.00pt;
+	}
+div#e6              { /* We are currently looking... */
+	position        : absolute;
+	left            : 492.00pt;
+	top             :  37.50pt;
+	width           : 208.50pt;
+	height          : 106.50pt;
+	}
+div#e5              { /* Next Issue Jan'2017  */
+	position        : absolute;
+	left            : 492.00pt;
+	top             :  19.50pt;
+	width           : 117.75pt;
+	height          :  45.75pt;
+	}
+div#e4              {
+	position        : absolute;
+	left            :  68.25pt;
+	top             : 408.00pt;
+	width           : 480.00pt;
+	height          : 949.50pt;
+	}
+div#e3              { /* home */
+	position        : absolute;
+	left            : 237.75pt;
+	top             : 158.25pt;
+	width           :  54.00pt;
+	height          :  17.25pt;
+	}
+div#e2              { /* contact  */
+	position        : absolute;
+	left            : 305.25pt;
+	top             : 158.25pt;
+	width           :  54.75pt;
+	height          :  17.25pt;
+	}
+div#e1              { /* downloads */
+	position        : absolute;
+	left            : 380.25pt;
+	top             : 158.25pt;
+	width           :  75.75pt;
+	height          :  15.75pt;
+	}
+div#page            { /* Page Holder */
+	background-color: transparent;
+	position        : relative;
+	width           : 712.50pt;
+	height          :1500.00pt;
+	text-align      : left;
+	margin-left     : auto;
+	margin-right    : auto;
+	}
+body                { /* Page Body */
+	background-color: #ffffff;
+	background-image: url(6909249-black-hd-background.jpg);
+	text-align      : center;
+	}
+
+
+
+/*--- EndOfFile ---*/
